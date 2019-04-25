@@ -1,0 +1,17 @@
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.deps.json
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.json
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.dev.json
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.pdb
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csprojAssemblyReference.cache
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CoreCompileInputs.cache
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfoInputs.cache
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfo.cs
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CopyComplete
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.pdb

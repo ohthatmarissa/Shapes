@@ -1,0 +1,9 @@
+/Users/marissa/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/marissa/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/marissa/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/marissa/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/marissa/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/marissa/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/marissa/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/marissa/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
